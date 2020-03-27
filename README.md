@@ -1,17 +1,14 @@
-# bnc2014
-Parsing the BNC2014.
+# _That's cool_. Computational sociolinguistic methods for investigating individual lexico-grammatical variation
 
-___That's cool_. Computational sociolinguistic methods for investigating individual lexico-grammatical variation__
+## Script for data retrieval and processing
 
-__Script for data retrieval and processing__
+Hans-Jörg Schmid (1),  
+Quirin Würschinger (1),  
+Sebastian Fischer (2),  
+Helmut Küchenhoff (2)  
 
-Hans-Jörg Schmid (1),
-Quirin Würschinger (1),
-Sebastian Fischer (2),
-Helmut Küchenhoff (2)
-
-(1) Department of English and American Studies, LMU Munich, Germany
-(2) Department of Statistics, LMU Munich, Germany
+(1) Department of English and American Studies, LMU Munich, Germany  
+(2) Department of Statistics, LMU Munich, Germany  
 
 Correspondence
 
