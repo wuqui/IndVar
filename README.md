@@ -26,3 +26,5 @@ Outputs files are stored in `out/`.
 
 * regarding the paper: <hans-joerg.schmid@lmu.de>
 * regarding this notebook: <q.wuerschinger@lmu.de>
+
+If you want to adapt the script just contact us via email.
