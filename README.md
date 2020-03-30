@@ -30,6 +30,6 @@ Helmut Küchenhoff (2)
 ### Correspondence
 
 * regarding the paper: <hans-joerg.schmid@lmu.de>
-* regarding this notebook: <q.wuerschinger@lmu.de>
+* regarding this repository: <q.wuerschinger@lmu.de>
 
 If you want to adapt and use the script just contact us via [email](mailto:q.wuerschinger@gmail.com).
