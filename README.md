@@ -22,8 +22,8 @@ Helmut Küchenhoff (2)
 
 ### Contents
 
-* The code is provided as a notebook with comments in `IndVar.ipynb`.
-* Exported versions of the notebook for viewing can be found in `IndVar.html` and `IndVar.pdf`.
+* The code is provided as a notebook with comments in `IndVarBNC.ipynb`.
+* Exported versions of the notebook for viewing can be found in `IndVarBNC.html` and `IndVarBNC.pdf`.
 * Output files are stored in the directory `out/`.
 
 
