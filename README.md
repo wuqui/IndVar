@@ -13,13 +13,18 @@ Helmut Küchenhoff (2)
 
 ### Functionality
 
-* this notebook parses the XML version of BNC2014,
+* This notebook parses the XML version of [BNC2014](http://corpora.lancs.ac.uk/bnc2014/),
 * calculates total counts for texts, speakers and words in the corpus,
 * performs queries for the target pattern `that's ADJ` and stores all hits,
-* merges hits with semantic category descriptions from the USAS tagset,
+* merges hits with semantic category descriptions from the [USAS](http://ucrel.lancs.ac.uk/usas/) tagset,
 * merges hits with metadata for speakers and conversations from the spreadsheets provided by BNC2014.
 
-Outputs files are stored in `out/`.
+
+### Contents
+
+* The code is provided as a notebook with comments in `IndVar.ipynb`.
+* Exported versions of the notebook for viewing can be found in `IndVar.html` and `IndVar.pdf`
+* Output files are stored in the directory `out/`.
 
 
 ### Correspondence
@@ -27,4 +32,4 @@ Outputs files are stored in `out/`.
 * regarding the paper: <hans-joerg.schmid@lmu.de>
 * regarding this notebook: <q.wuerschinger@lmu.de>
 
-If you want to adapt the script just contact us via email.
+If you want to adapt and use the script just contact us via [email](mailto:q.wuerschinger@gmail.com).
